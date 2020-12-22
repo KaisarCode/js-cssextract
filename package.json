@@ -1,6 +1,6 @@
 {
   "name": "kc-cssextract",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "[js] Simple CSS selectors/rules extractor.",
   "main": "index.js",
   "repository": {
