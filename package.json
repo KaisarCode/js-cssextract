@@ -1,0 +1,25 @@
+{
+  "name": "kc-cssextract",
+  "version": "1.0.3",
+  "description": "Simple CSS selectors/rules extractor.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KaisarCode/js-cssextract.git"
+  },
+  "keywords": [
+    "get",
+    "extract",
+    "css",
+    "string"
+  ],
+  "author": "KaisarCode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaisarCode/js-cssextract/issues"
+  },
+  "homepage": "https://github.com/KaisarCode/js-cssextract",
+  "dependencies": {
+    "fun2mod": "^1.0.3"
+  }
+}
