@@ -1,6 +1,6 @@
 {
   "name": "kc-cssextract",
-  "version": "1.0.4",
+  "version": "1.0.3",
   "description": "Simple CSS selectors/rules extractor.",
   "main": "index.js",
   "repository": {
@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/KaisarCode/js-cssextract",
   "dependencies": {
-    "fun2mod": "^1.0.3"
+    "fun2mod": "^1.0.4"
   }
 }
