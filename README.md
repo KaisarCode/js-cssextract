@@ -1,5 +1,5 @@
 # CSSExtract
-Simple CSS selectors/rules extractor.
+[js] Simple CSS selectors/rules extractor.
 
 ### Install
 ```
